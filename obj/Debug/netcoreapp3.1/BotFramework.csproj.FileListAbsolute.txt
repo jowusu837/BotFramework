@@ -1,9 +1,0 @@
-/Users/victorowusu/PaymentService/BotFramework/bin/Debug/netcoreapp3.1/BotFramework.deps.json
-/Users/victorowusu/PaymentService/BotFramework/bin/Debug/netcoreapp3.1/BotFramework.dll
-/Users/victorowusu/PaymentService/BotFramework/bin/Debug/netcoreapp3.1/BotFramework.pdb
-/Users/victorowusu/PaymentService/BotFramework/obj/Debug/netcoreapp3.1/BotFramework.csprojAssemblyReference.cache
-/Users/victorowusu/PaymentService/BotFramework/obj/Debug/netcoreapp3.1/BotFramework.csproj.CoreCompileInputs.cache
-/Users/victorowusu/PaymentService/BotFramework/obj/Debug/netcoreapp3.1/BotFramework.AssemblyInfoInputs.cache
-/Users/victorowusu/PaymentService/BotFramework/obj/Debug/netcoreapp3.1/BotFramework.AssemblyInfo.cs
-/Users/victorowusu/PaymentService/BotFramework/obj/Debug/netcoreapp3.1/BotFramework.dll
-/Users/victorowusu/PaymentService/BotFramework/obj/Debug/netcoreapp3.1/BotFramework.pdb
