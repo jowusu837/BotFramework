@@ -1,5 +1,5 @@
 # BotFramework
-TBD
+This is a framework for creating all sorts of bots. It makes the process of development easy and fast. You can create simple or complex bots in a matter of minutes. Handles all sorts of complicated logic and flows for you.
 ## Publishing the package
 1. Update package version number in `BotFramework.csproj` file.
 2. Package the project: 
