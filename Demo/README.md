@@ -9,7 +9,7 @@ To run this project, you must first add the `BotFramework` package by following 
     ...
 
     <ItemGroup>
-      <PackageReference Include="BotFramework" Version="1.0.0" />
+      <PackageReference Include="BotFramework" Version="1.1.0" />
     </ItemGroup>
 
    </Project>
