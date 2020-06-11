@@ -38,10 +38,10 @@ public void ConfigureServices(IServiceCollection services)
 {
 	...
 	services.AddBot(builder =>
-		{
-			builder.UseInMemorySessionDriver();
-			builder.SetEntryPointConversation<WelcomeConversation>();
-		});
+	{
+		builder.UseInMemorySessionDriver();
+		builder.SetEntryPointConversation<WelcomeConversation>();
+	});
 	services.AddControllers();
 }
 ```
@@ -107,7 +107,7 @@ namespace Demo.Conversations
 
 		public override async Task Run()
 		{
-		await Bot.Reply("All systems functioning at 100%!");
+			await Bot.Reply("All systems functioning at 100%!");
 		}
 	}
 }
